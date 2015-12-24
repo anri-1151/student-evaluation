@@ -1,0 +1,34 @@
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\bin\Debug\IBSU.exe.config
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\bin\Debug\IBSU.exe
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\bin\Debug\IBSU.pdb
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\IBSU.Form1.resources
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\IBSU.Form2.resources
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\IBSU.Form3.resources
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\IBSU.Properties.Resources.resources
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\IBSU.csproj.GenerateResource.Cache
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\IBSU.exe
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\IBSU.pdb
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\IBSU.Form4.resources
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\IBSU.Form5.resources
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\bin\Debug\af-ZA\IBSU.resources.dll
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\IBSU.Form3.af-ZA.resources
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\af-ZA\IBSU.resources.dll
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Anri\Documents\Visual Studio 2013\Projects\IBSU\IBSU\obj\Debug\IBSU.csprojResolveAssemblyReference.cache
+C:\Users\Anri\Desktop\IBSU\IBSU\bin\Debug\IBSU.exe.config
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\IBSU.exe
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\IBSU.pdb
+C:\Users\Anri\Desktop\IBSU\IBSU\bin\Debug\IBSU.exe
+C:\Users\Anri\Desktop\IBSU\IBSU\bin\Debug\IBSU.pdb
+C:\Users\Anri\Desktop\IBSU\IBSU\bin\Debug\af-ZA\IBSU.resources.dll
+C:\Users\Anri\Desktop\IBSU\IBSU\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\IBSU.csprojResolveAssemblyReference.cache
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\IBSU.Form1.resources
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\IBSU.Form2.resources
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\IBSU.Form3.resources
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\IBSU.Form4.resources
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\IBSU.Form5.resources
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\IBSU.Properties.Resources.resources
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\IBSU.Form3.af-ZA.resources
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\IBSU.csproj.GenerateResource.Cache
+C:\Users\Anri\Desktop\IBSU\IBSU\obj\Debug\af-ZA\IBSU.resources.dll
